@@ -2,9 +2,7 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
+Click [HERE](https://danielemechete.github.io/pixelartmaker/) to view app
 ## Instructions
 
 To get started, open `designs.js` and start building out the app's functionality.
